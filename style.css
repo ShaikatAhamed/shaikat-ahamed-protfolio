@@ -4,7 +4,7 @@
   height: 100%;
   overflow: hidden;
   border-radius: 12px;
-  transform:translateY(-70px);
+  margin-top:-70px;
 }
 
 .hero-image img {
